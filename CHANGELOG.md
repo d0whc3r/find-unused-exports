@@ -1,3 +1,13 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## 1.0.0 (2025-08-28)
+
+### 🚀 Features
+
+* add decoration to unused exports ([#1](https://github.com/d0whc3r/find-unused-exports/issues/1)) ([600d9a2](https://github.com/d0whc3r/find-unused-exports/commit/600d9a2f63c431e5ccea5d2aef00378db0977f81))
+
 # Change Log
 
 All notable changes to the "Find Unused Exports" extension will be documented in this file.
