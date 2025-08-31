@@ -1,8 +1,8 @@
 name: ⚡ Performance Issue
 description: Report performance problems with the Find Unused Exports extension
-title: "[PERFORMANCE] "
-labels: ["performance", "bug"]
-assignees: ["d0whc3r"]
+title: '[PERFORMANCE] '
+labels: ['performance', 'bug']
+assignees: ['d0whc3r']
 
 body:
   - type: markdown
@@ -71,7 +71,7 @@ body:
     attributes:
       label: Approximate File Count
       description: How many TypeScript/JavaScript files are in your project?
-      placeholder: "e.g., 1500"
+      placeholder: 'e.g., 1500'
 
   - type: textarea
     id: timing-details
