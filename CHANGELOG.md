@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/d0whc3r/find-unused-exports/compare/v1.0.0...v1.0.1) (2025-08-31)
+
+### 🐛 Bug Fixes
+
+* **deps:** bump actions/checkout from 4 to 5 ([#5](https://github.com/d0whc3r/find-unused-exports/issues/5)) ([ddf8524](https://github.com/d0whc3r/find-unused-exports/commit/ddf85246700a94cc9c6d40fdbe6e32b915f5f94d))
+* standardize quotes and fix newlines in config files ([#10](https://github.com/d0whc3r/find-unused-exports/issues/10)) ([9da576f](https://github.com/d0whc3r/find-unused-exports/commit/9da576fe7e470ed15df35082f1578e0eea757ce8))
+
 ## 1.0.0 (2025-08-28)
 
 ### 🚀 Features
