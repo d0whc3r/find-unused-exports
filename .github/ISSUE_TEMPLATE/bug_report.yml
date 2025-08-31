@@ -1,8 +1,8 @@
 name: 🐛 Bug Report
 description: Report a bug to help us improve the Find Unused Exports extension
-title: "[BUG] "
-labels: ["bug"]
-assignees: ["d0whc3r"]
+title: '[BUG] '
+labels: ['bug']
+assignees: ['d0whc3r']
 
 body:
   - type: markdown
@@ -97,7 +97,7 @@ body:
     attributes:
       label: VS Code Version
       description: What version of VS Code are you using?
-      placeholder: "e.g., 1.85.0"
+      placeholder: 'e.g., 1.85.0'
     validations:
       required: true
 
@@ -106,7 +106,7 @@ body:
     attributes:
       label: Extension Version
       description: What version of Find Unused Exports are you using?
-      placeholder: "e.g., 2.1.6"
+      placeholder: 'e.g., 2.1.6'
     validations:
       required: true
 

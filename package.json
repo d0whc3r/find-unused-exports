@@ -29,8 +29,8 @@
     "prepare": "husky",
     "lint": "eslint src tests --ext .ts,.js",
     "lint:fix": "eslint src tests --ext .ts,.js --fix",
-    "format": "prettier --write \"**/*.{ts,js,json,md}\" --ignore-path .gitignore",
-    "format:check": "prettier --check \"**/*.{ts,js,json,md}\" --ignore-path .gitignore",
+    "format": "prettier --write \"**/*.{ts,js,json,yml}\" --ignore-path .gitignore",
+    "format:check": "prettier --check \"**/*.{ts,js,json,yml}\" --ignore-path .gitignore",
     "type-check": "tsc --noEmit",
     "build": "npm run type-check && npm run esbuild",
     "build:prod": "npm run type-check && npm run esbuild-base -- --minify",
@@ -339,7 +339,7 @@
       "eslint --fix",
       "prettier --write"
     ],
-    "*.{json,md}": [
+    "*.{json,yml}": [
       "prettier --write"
     ]
   },

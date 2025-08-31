@@ -3,11 +3,11 @@
 
 # Exclude sample projects from Copilot analysis and reviews
 exclude:
-  - "sample-projects/**"
-  - "**/sample-projects/**"
+  - 'sample-projects/**'
+  - '**/sample-projects/**'
 
 # Copilot review settings
 review:
   exclude_paths:
-    - "sample-projects/**"
-    - "**/sample-projects/**"
+    - 'sample-projects/**'
+    - '**/sample-projects/**'
